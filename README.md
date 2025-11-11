@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Federico Lupiañez</h1>
 <h3 align="center">Un jóven estudiante que busca aprender y crecer en el mundo del software</h3>
 
-- 🔭 Actualmente estoy trabajando en [proyectos escolares relacionados al software, tanto en desarrollo web como en desarrollo de sistemas más complejos, como por ejemplo :](librevento.vercel.app)
+- 🔭 Actualmente estoy trabajando en proyectos escolares relacionados al software, tanto en desarrollo web como en desarrollo de sistemas más complejos, como por ejemplo : [librevento.vercel.app]
+(Gatifico)
 
 - 🌱 Actualmente estoy estudiando sobre **Svelte, c++, python, sql y Backend en general**
 
@@ -9,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@fedee.lup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fedee.lup" height="30" width="40" /></a>
+<a href="https://instagram.com/fedee.lup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fedee.lup" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
