@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Federico Lupiañez</h1>
 <h3 align="center">Un jóven estudiante que busca aprender y crecer en el mundo del software</h3>
 
-- 🔭 Actualmente estoy trabajando en proyectos escolares relacionados al software, tanto en desarrollo web como en desarrollo de sistemas más complejos, como por ejemplo : \n
-[Librevento](https://librevento.vercel.app) -> [Código](https://github.com/FedeLupianez/Librevento_control)
-[Gatifico](https://github.com/FedeLupianez/Gatifico)
+- 🔭 Actualmente estoy trabajando en proyectos escolares relacionados al software, tanto en desarrollo web como en desarrollo de sistemas más complejos, como por ejemplo :
+  - [Librevento](https://librevento.vercel.app) -> [Código](https://github.com/FedeLupianez/Librevento_control)
+  - [Gatifico](https://github.com/FedeLupianez/Gatifico)
 
 - 🌱 Actualmente estoy estudiando sobre **Svelte, c++, python, sql y Backend en general**
 
