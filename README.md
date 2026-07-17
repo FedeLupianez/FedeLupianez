@@ -2,9 +2,8 @@
 <h3 align="center">A young student eager to learn and grow in the world of software</h3>
 
 🔭 I am currently working on school-related software projects, both in web development and in more complex system development, such as:
-  - [Librevento](https://librevento.vercel.app) -> [Code](https://github.com/LupFede/Librevento_control)
-  - [Gatifico](https://github.com/LupFede/Gatifico)
-  - [mydb_c](https://github.com/FedeLupianez/mydb_c)
+  - Benefits Platform to CeCIT partners (Alta Gracia) -> [Backend](https://github.com/FedeLupianez/cecit-backend) [Frontend](https://github.com/FedeLupianez/cecit-frontend)
+  - [rouchDB](https://github.com/FedeLupianez/rouchDB)
 
 🎯 Aspiring Software Developer with a strong interest in systems programming and modern web technologies.
   - Low-level: C, C++, Linux.
